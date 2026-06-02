@@ -1,0 +1,3 @@
+name = "fourier_dirichlet_fejer"
+version = "0.1.0"
+defaultTargets = ["Submission"]
